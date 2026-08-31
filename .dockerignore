@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+.env
+*.pyc
+__pycache__
+nginx/
+haproxy/
+proxy.yaml
+schema.pdf
+.DS_Store
